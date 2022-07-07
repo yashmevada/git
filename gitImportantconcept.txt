@@ -1,0 +1,3 @@
+git rm -rf .git -->  aa command .git name na folder(repo) ne delete kre che..
+git diff --> aa command compare kare che staging area and working directory..
+git diff --stagged --> aa command current commit and aagad na commit vache compare kre che.
