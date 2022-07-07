@@ -9,3 +9,5 @@ git diff --stagged --> aa command current commit and aagad na commit vache compa
 touch command k echo(echo > filename.text) command ni help thi pan file bnavi skay che...
 
  git mv oldfilename newfilename --> git mv command thi file nu rename kari sakay che.
+
+git rm  filename --> git rm command thi file nu delete kari sakay che.
