@@ -11,3 +11,20 @@ touch command k echo(echo > filename.text) command ni help thi pan file bnavi sk
  git mv oldfilename newfilename --> git mv command thi file nu rename kari sakay che.
 
 git rm  filename --> git rm command thi file nu delete kari sakay che.
+
+git clone url  name(je folder ne name aapvu hoi ae) --> aama clone aetle koi biji link repo ne aapde download or aapda computer ni ander lavva mate clone word lakhi ne url type karva nu..........ane pachi folder  nu je name rakhvanu hoi ae name aapva nu... 
+
+git log --pretty=oneline --> aa command ma jetla pan commite thaya hase ae badhane ak j line ma display thase
+
+git log --pretty=sort --> aa command ma badha commite ne sort description ma display karse...
+
+git log --pretty=full --> aa command ma badha commite ne full description ma display karse...
+
+npte:remote repositry aetle aaapda pc/leptop ma na hoi pan koi web hosting web site per ho aene aapde remote repositry kahiye  che.... 
+git log --since=2.day --> aa command ma filter karine last 2 divas na commit btavse.
+note: day ni jagya ye month and year pan lakhi sakay che.. 
+
+git log --pretty=(je formate ma joiye ae formate lakhvanu )"%h -- %an" -->  aama aap ne je formate ma je commit thaye hoi  te description ne display thay che....aama " " ni vache je formate joy ye ae expresion mention karvanu. 
+note : aama formate ma an=authorname display karse....
+
+note: rename karva ma aevu thay ke ak file ne bija file ni adar move karva nu ane j new name aapvanu hoi ae file nu aapvanu ..aetle rename thay jay....
